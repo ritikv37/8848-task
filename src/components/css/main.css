@@ -1,0 +1,24 @@
+.login .login-div {
+    border: 1px solid black;
+    padding: 3rem;
+    border-radius: 1rem;
+}
+
+.login {
+    padding-inline: 3rem;
+}
+
+/* --list=------------- */
+
+.list-con {
+    height: 80vh;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: '8px';
+    overflow-y: scroll;
+    padding: 2rem;
+}
+
+.list-con::-webkit-scrollbar {
+    display: none;
+}
